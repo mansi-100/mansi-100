@@ -14,14 +14,14 @@ I'm Learner,App Developer & Software Developer
 
 ## Language Interests :
 
-- [ ] Python
-- [ ] PHP
-- [ ] JAVA
-- [ ] C
-- [ ] C++
-- [ ] MEAN STACK
-- [ ] ANDROID DEVELOPER (JAVA)
-- [ ] FLUTTER DEVELOPER
+- [x] Python
+- [x] PHP
+- [x] JAVA
+- [x] C
+- [x] C++
+- [x] MEAN STACK
+- [x] ANDROID DEVELOPER (JAVA)
+- [x] FLUTTER DEVELOPER
 
 
 
