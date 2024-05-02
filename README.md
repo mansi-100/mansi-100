@@ -15,6 +15,7 @@ I'm Learner,App Developer & Software Developer
 
 ## Language Interests :
 
+- [x] AI and Machine Learning 
 - [x] Python
 - [x] PHP
 - [x] JAVA
