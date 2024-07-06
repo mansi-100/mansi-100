@@ -7,7 +7,7 @@ I'm Learner,App Developer & Software Developer
 - 👯 I’m looking to collaborate on Flutter Project
 - 🤔 I’m looking for help with Flutter and Android Projects
 - 💬 Ask me about anything !
-- 📫 How to reach me: <a href="mansinayak100@gmail.com">mansinayak100@gmail.com </a>
+- 📫 How to reach me: <a href="mansinayak170@gmail.com">mansinayak170@gmail.com </a>
 - ⚡ Fun fact: Love to Play Action Games 
 
 <img src="https://cdn.wallpapersafari.com/94/68/lOsTXu.jpg" style="height: 300px; width: 500px;">
